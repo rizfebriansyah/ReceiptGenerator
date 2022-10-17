@@ -11,6 +11,8 @@ User is able to key in all the necessary information such as:
   
 At the end, a receipt will be automatically generated.
 
+=============================================================================  
+
 Details needed to key in:  
 
 <img width="550" alt="ReceiptGenerator" src="https://user-images.githubusercontent.com/88428142/196016175-6ab31422-3a15-4c0f-b603-65f15318055f.png">
