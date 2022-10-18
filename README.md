@@ -20,3 +20,5 @@ Details needed to key in:
 Receipt being generated:  
 
 <img width="567" alt="ReceiptGenerator2" src="https://user-images.githubusercontent.com/88428142/196016546-a98d61a1-a44b-493e-acf2-a3d11fcd40b6.png">
+
+I use Eclipse to run the application. 
